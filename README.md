@@ -1,5 +1,5 @@
 # Guia para tener una interfaz más a gusto
-![](/img/kali.png)
+![](/img/kali_antes_después.png)
 
 ### Todo esto fue posible gracias a Macelo Vázquez, Ve y siguelo. **[¡S4vitar!](https://www.linkedin.com/in/s4vitar/)**  y entra a su academia **[¡Hack4u!](https://hack4u.io/)** 
 
